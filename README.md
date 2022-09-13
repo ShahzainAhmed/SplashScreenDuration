@@ -1,1 +1,1 @@
-# SplashScreenDuration
+# SplashScreen with Duration - Flutter
